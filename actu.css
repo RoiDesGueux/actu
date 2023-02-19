@@ -262,3 +262,18 @@ display: none;
 }
 
 }
+/* **************** IMAGE PRINCIPALE ************* */
+#imagePrincipale {
+  padding-top: 60px;
+  background: url(img/background/actus.png) no-repeat 50% 50%;
+  background-size: cover;
+  height: 799px;
+  }
+  
+  #premierTrait {
+  height: 1px;
+  width: 25%;
+  margin: -3px auto;
+  background-color: #191b21;
+  box-shadow: 1px 3px 2px #191b21;
+  }
